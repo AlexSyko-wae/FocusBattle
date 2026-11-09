@@ -1,0 +1,124 @@
+{
+  "Fútbol": [
+    [1,"¿Cuál es el máximo de jugadores de un equipo en el campo en fútbol once?",["11","10","12","9"],"Cada equipo puede tener un máximo de once jugadores en el campo, incluido el guardameta."],
+    [1,"¿Qué tarjeta indica una expulsión?",["Roja","Amarilla","Verde","Azul"],"La tarjeta roja comunica la expulsión de un jugador."],
+    [1,"¿Qué jugador puede usar las manos dentro de su propia área penal, sujeto a las reglas?",["El guardameta","Cualquier defensa","El capitán","El delantero"],"El guardameta tiene un permiso especial dentro de su propia área penal."],
+    [2,"En un saque de banda, ¿cuántas manos debe usar quien lo realiza?",["Dos","Una","Ninguna","Tres"],"El balón se lanza con ambas manos desde atrás y por encima de la cabeza."],
+    [2,"¿Cuánto dura cada tiempo reglamentario en un partido de fútbol adulto, sin contar tiempo añadido?",["45 minutos","30 minutos","40 minutos","60 minutos"],"Un partido adulto se divide en dos tiempos de 45 minutos."],
+    [2,"Si el balón cruza completamente la línea de meta fuera de la portería y lo tocó por último un defensor, ¿qué se concede?",["Saque de esquina","Saque de banda","Saque inicial","Tiro libre indirecto"],"Corresponde un saque de esquina si no se ha marcado gol."],
+    [3,"¿Puede marcarse un gol válido directamente de un saque de banda?",["No","Sí, en cualquier portería","Sí, solo en la contraria","Sí, si lo hace el capitán"],"No se puede marcar directamente desde un saque de banda."],
+    [3,"¿Existe infracción de fuera de juego si un jugador recibe el balón directamente de un saque de meta?",["No","Siempre","Solo en la primera mitad","Solo si es delantero"],"La recepción directa de un saque de meta es una excepción a la infracción de fuera de juego."],
+    [3,"¿A qué distancia del punto penal se sitúa la línea de meta?",["11 metros","9 metros","12 metros","15 metros"],"El punto penal se encuentra a once metros de la línea de meta."]
+  ],
+  "Videojuegos": [
+    [1,"¿Qué suele representar la barra de HP de un personaje?",["Su salud","Su dinero","Su velocidad de Internet","Su nombre"],"HP representa los puntos de salud o de vida del personaje."],
+    [1,"¿Qué permite normalmente la opción Guardar partida?",["Conservar el progreso","Aumentar el brillo","Cambiar el monitor","Eliminar todas las reglas"],"Guardar conserva el estado para continuar después."],
+    [1,"¿Qué describe un juego por turnos?",["Los participantes actúan en turnos definidos","Todos actúan siempre simultáneamente","No hay acciones","Solo se controla con voz"],"En un sistema por turnos las acciones se organizan en una secuencia."],
+    [2,"¿Qué significa NPC en un videojuego?",["Personaje no jugador","Nivel principal de combate","Nueva partida cooperativa","Número de puntos críticos"],"NPC viene de non-player character: un personaje que no controla el jugador."],
+    [2,"¿Qué función tiene un punto de control o checkpoint?",["Marcar un punto desde el que se puede reanudar","Duplicar el tamaño de la pantalla","Reemplazar el sistema operativo","Desactivar todos los controles"],"Los checkpoints permiten retomar una sección desde un punto definido por el juego."],
+    [2,"¿Qué describe el término cooldown de una habilidad?",["El tiempo de espera antes de volver a usarla","El volumen de la música","La resolución de pantalla","El número de idiomas"],"El cooldown limita la frecuencia con que puede activarse una habilidad."],
+    [3,"En un combate determinista, con el mismo estado y las mismas acciones, ¿qué se espera?",["El mismo resultado","Un resultado siempre distinto","Que no haya reglas","Que el HP sea infinito"],"Un sistema determinista produce el mismo resultado al repetir las mismas condiciones."],
+    [3,"¿Para qué sirve una máquina de estados en la lógica de un juego?",["Definir estados y transiciones permitidas","Aumentar automáticamente la memoria física","Dibujar siempre en 3D","Eliminar la necesidad de controles"],"Una máquina de estados organiza situaciones como combate, pausa y resultados."],
+    [3,"¿Qué significa que un recurso pixel art use una cuadrícula de píxeles?",["Su imagen está formada por celdas discretas de color","Es obligatoriamente una fotografía","No tiene dimensiones","Solo puede verse impreso"],"El pixel art construye formas mediante una cuadrícula de unidades de color."]
+  ],
+  "Películas": [
+    [1,"¿Qué profesional dirige la puesta en escena de una película?",["El director o directora","El espectador","El proyeccionista exclusivamente","El vendedor de entradas"],"La dirección coordina la interpretación y las decisiones de puesta en escena."],
+    [1,"¿Qué es un subtítulo?",["Texto en pantalla que representa diálogo u otra información sonora","Un tipo de cámara","Un asiento de cine","Una entrada gratuita"],"Los subtítulos permiten leer diálogos y, en algunos formatos, información sonora."],
+    [1,"¿Qué es la banda sonora de una película?",["El conjunto de sus elementos sonoros","La lista de butacas","El ancho de la pantalla","El precio de la entrada"],"La banda sonora incluye voces, música y efectos sonoros."],
+    [2,"¿Qué tarea realiza principalmente el montaje cinematográfico?",["Seleccionar y ordenar planos","Construir las butacas","Vender entradas","Traducir automáticamente todas las voces"],"El montaje combina los planos para construir la secuencia narrativa y su ritmo."],
+    [2,"¿Qué es un guion cinematográfico?",["Un texto que organiza escenas, acciones y diálogos","La factura de la cámara","Una lente","Un altavoz"],"El guion describe las acciones y diálogos que se llevarán a la pantalla."],
+    [2,"¿Qué significa doblar una película a otro idioma?",["Sustituir sus voces por interpretaciones en ese idioma","Duplicar su duración","Cambiar su relación de aspecto","Eliminar todas sus imágenes"],"En el doblaje se graban nuevas interpretaciones de voz para reemplazar las originales."],
+    [3,"¿Qué describe un flashback?",["Una escena que muestra hechos anteriores al momento narrativo principal","Un plano sin sonido","El final de los créditos","Un cambio de sala de cine"],"El flashback altera el orden temporal para mostrar acontecimientos previos."],
+    [3,"¿Qué es sonido diegético?",["Sonido que pertenece al mundo de la historia","Cualquier sonido que solo oye el público","Una imagen fija","Una traducción de los créditos"],"Un diálogo o una radio que suena dentro de la escena son ejemplos de sonido diegético."],
+    [3,"¿Qué caracteriza un plano secuencia?",["Una toma continua que desarrolla una secuencia sin cortes de montaje","Una colección de fotografías sin orden","Un título sobre fondo negro","Una lista de actores"],"Un plano secuencia mantiene la continuidad de la toma durante el desarrollo de la secuencia."]
+  ],
+  "Series": [
+    [1,"¿Cómo se llama normalmente una entrega individual de una serie televisiva?",["Episodio","Butaca","Cartelera","Lente"],"Una serie se distribuye en entregas llamadas episodios o capítulos."],
+    [1,"¿Qué agrupa habitualmente una temporada de una serie?",["Un conjunto de episodios","Solo los anuncios","Las salas de cine","Las cámaras de un estudio"],"Una temporada reúne un conjunto de episodios dentro de la producción de una serie."],
+    [1,"¿Qué es un personaje protagonista?",["Un personaje central de la historia","Cualquier objeto del decorado","Una persona que compra entradas","El nombre de una plataforma"],"El protagonista ocupa un papel central en el desarrollo narrativo."],
+    [2,"¿Qué suele ser el episodio piloto de una serie?",["Un episodio inicial usado para presentar o probar la propuesta","Un episodio sobre aviación obligatoriamente","El último anuncio","Un resumen de todos los finales"],"Un piloto presenta el concepto de la serie y puede servir para evaluar su producción."],
+    [2,"¿Qué es una recapitulación al inicio de un episodio?",["Un resumen de acontecimientos anteriores","Un cambio de idioma obligatorio","La eliminación del protagonista","Un tipo de micrófono"],"La recapitulación recuerda información relevante de episodios previos."],
+    [2,"¿Qué caracteriza a una serie antológica?",["Presenta historias distintas por episodio o temporada","Todos los episodios deben durar tres horas","No puede tener actores","Nunca tiene diálogos"],"Una antología reúne historias independientes o diferenciadas entre entregas."],
+    [3,"¿Qué es un cliffhanger?",["Un cierre que deja una situación importante sin resolver","Un tipo de pantalla","Una repetición de los créditos","Un episodio sin personajes"],"Un cliffhanger genera expectativa al suspender la resolución de un conflicto."],
+    [3,"¿Qué describe un arco narrativo?",["La evolución de una historia o personaje a lo largo de varias escenas o episodios","El marco físico del televisor","El número de anuncios por minuto","Un cable de sonido"],"Un arco narrativo conecta etapas de desarrollo y transformación."],
+    [3,"¿Qué es un spin-off?",["Una obra derivada que desarrolla elementos de otra obra","Una traducción literal de todos los diálogos","Un episodio sin montaje","Un fallo de conexión"],"Un spin-off toma personajes, situaciones u otros elementos de una obra para desarrollar otra."]
+  ],
+  "Historia": [
+    [1,"¿Qué civilización construyó las pirámides de Guiza?",["La egipcia","La inca","La romana","La vikinga"],"Las pirámides de Guiza fueron construidas en el antiguo Egipto."],
+    [1,"¿En qué año comenzó la Segunda Guerra Mundial en Europa?",["1939","1914","1945","1810"],"La invasión alemana de Polonia en 1939 marcó el inicio de la guerra en Europa."],
+    [1,"¿En qué continente se desarrolló el Imperio inca?",["América del Sur","Europa","Oceanía","África"],"El Imperio inca se extendió por regiones andinas de América del Sur."],
+    [2,"¿En qué año comenzó la Revolución francesa?",["1789","1492","1917","1848"],"La Revolución francesa comenzó en 1789."],
+    [2,"¿Quién se asocia con el desarrollo de la imprenta de tipos móviles metálicos en Europa en el siglo XV?",["Johannes Gutenberg","Isaac Newton","Charles Darwin","Galileo Galilei"],"Gutenberg desarrolló un sistema de impresión con tipos móviles metálicos en Europa."],
+    [2,"¿Qué ciudad fue la capital del Imperio bizantino durante la mayor parte de su historia?",["Constantinopla","Madrid","París","Lima"],"Constantinopla fue el centro político del Imperio bizantino."],
+    [3,"¿En qué año cayó Constantinopla ante los otomanos?",["1453","476","1789","1918"],"La conquista otomana de Constantinopla ocurrió en 1453."],
+    [3,"¿Qué tratado de 1919 estableció condiciones de paz con Alemania tras la Primera Guerra Mundial?",["Tratado de Versalles","Tratado de Tordesillas","Tratado de Utrecht","Tratado de Lisboa"],"El Tratado de Versalles se firmó en 1919 e impuso condiciones a Alemania."],
+    [3,"¿En qué año se promulgó la Constitución mexicana surgida de la Revolución?",["1917","1810","1821","1857"],"La Constitución Política de los Estados Unidos Mexicanos fue promulgada el 5 de febrero de 1917."]
+  ],
+  "Geografía": [
+    [1,"¿Cuál es la capital de Francia?",["París","Roma","Lisboa","Berlín"],"París es la capital de Francia."],
+    [1,"¿Qué océano se encuentra entre América y Europa?",["Atlántico","Índico","Ártico exclusivamente","Pacífico"],"El océano Atlántico separa América de Europa y África."],
+    [1,"¿En qué país se encuentra Tokio?",["Japón","China","India","Tailandia"],"Tokio es la capital de Japón."],
+    [2,"¿Qué línea imaginaria divide la Tierra en hemisferios norte y sur?",["El ecuador","El meridiano de Greenwich","El trópico de Cáncer","El círculo polar ártico"],"El ecuador corresponde a la latitud cero y divide ambos hemisferios."],
+    [2,"¿En qué continente está el desierto del Sahara?",["África","Europa","Oceanía","América del Sur"],"El Sahara se extiende por el norte de África."],
+    [2,"¿Cuál es la capital de Australia?",["Canberra","Sídney","Melbourne","Perth"],"Canberra es la capital de Australia; Sídney y Melbourne son otras ciudades importantes."],
+    [3,"¿Qué mide la latitud de un lugar?",["Su distancia angular al ecuador","Su altura exacta sobre el mar","Su distancia angular a Greenwich exclusivamente","Su población"],"La latitud se expresa en grados al norte o al sur del ecuador."],
+    [3,"¿Qué estrecho separa Asia de América del Norte?",["Estrecho de Bering","Estrecho de Gibraltar","Estrecho de Magallanes","Estrecho de Malaca"],"El estrecho de Bering separa el extremo oriental de Asia de Alaska."],
+    [3,"¿En qué país se encuentra la ciudad de Marrakech?",["Marruecos","Egipto","Turquía","Grecia"],"Marrakech es una ciudad de Marruecos, en el norte de África."]
+  ],
+  "Ciencia": [
+    [1,"¿Cuál es la fórmula química del agua?",["H₂O","CO₂","O₂","NaCl"],"Una molécula de agua tiene dos átomos de hidrógeno y uno de oxígeno."],
+    [1,"¿Qué planeta es conocido como el planeta rojo?",["Marte","Venus","Neptuno","Mercurio"],"Los óxidos de hierro de su superficie contribuyen al aspecto rojizo de Marte."],
+    [1,"¿Qué órgano bombea la sangre en el cuerpo humano?",["El corazón","El estómago","El hígado","El pulmón"],"El corazón impulsa la sangre a través del sistema circulatorio."],
+    [2,"¿Qué proceso permite a las plantas transformar energía luminosa en energía química?",["Fotosíntesis","Evaporación","Fusión nuclear","Condensación"],"En la fotosíntesis la energía de la luz se utiliza para producir sustancias orgánicas."],
+    [2,"¿Cuál es la unidad de fuerza en el Sistema Internacional?",["Newton","Julio","Vatio","Pascal"],"El newton es la unidad de fuerza: equivale a kg·m/s²."],
+    [2,"¿Qué partícula subatómica tiene carga eléctrica negativa?",["Electrón","Protón","Neutrón","Fotón"],"El electrón tiene carga negativa; el protón positiva y el neutrón no tiene carga neta."],
+    [3,"¿Qué representa el número atómico de un elemento?",["El número de protones del núcleo","El número total de neutrones siempre","La masa en kilogramos","El número de moléculas de una muestra"],"El número de protones determina la identidad del elemento químico."],
+    [3,"¿Cuál es la velocidad exacta de la luz en el vacío?",["299 792 458 m/s","340 m/s","9,8 m/s","150 000 m/s"],"La velocidad de la luz en el vacío está definida como 299 792 458 metros por segundo."],
+    [3,"¿Qué orgánulo se asocia principalmente con la producción de ATP por respiración celular en células eucariotas?",["Mitocondria","Lisosoma","Aparato de Golgi","Nucléolo"],"Las mitocondrias producen gran parte del ATP mediante procesos de respiración celular."]
+  ],
+  "Matemáticas": [
+    [1,"¿Cuánto es 7 × 8?",["56","54","48","64"],"Siete grupos de ocho suman 56."],
+    [1,"¿Cuánto es 15 + 27?",["42","32","52","41"],"15 + 20 = 35 y 35 + 7 = 42."],
+    [1,"¿Cuál es la mitad de 90?",["45","40","50","30"],"Dividir 90 entre 2 da 45."],
+    [2,"¿Cuánto es el 25 % de 80?",["20","25","40","15"],"El 25 % es un cuarto; 80 dividido entre 4 es 20."],
+    [2,"¿Cuánto vale x si 3x + 6 = 21?",["5","7","9","3"],"Restamos 6: 3x = 15. Dividimos entre 3: x = 5."],
+    [2,"¿Cuál es el área de un rectángulo de 8 cm por 5 cm?",["40 cm²","26 cm²","13 cm²","80 cm²"],"El área del rectángulo es base por altura: 8 × 5 = 40 cm²."],
+    [3,"¿Cuáles son las soluciones reales de x² = 49?",["7 y −7","Solo 7","Solo −7","49 y −49"],"Tanto 7² como (−7)² son 49."],
+    [3,"¿Cuál es la probabilidad de obtener dos caras al lanzar dos monedas justas e independientes?",["1/4","1/2","3/4","1"],"Cada cara tiene probabilidad 1/2; al ser independientes se multiplica: 1/2 × 1/2 = 1/4."],
+    [3,"¿Cuál es la derivada de f(x) = x³?",["3x²","x²","3x","x⁴/4"],"La regla de la potencia da d(xⁿ)/dx = n·xⁿ⁻¹; para n = 3 resulta 3x²."]
+  ],
+  "Inglés": [
+    [1,"¿Qué significa apple en español?",["Manzana","Pera","Uva","Naranja"],"Apple se traduce como manzana."],
+    [1,"¿Qué forma verbal completa I ___ a student?",["am","is","are","be"],"El verbo to be con I en presente se conjuga am."],
+    [1,"¿Qué significa blue en español?",["Azul","Rojo","Verde","Amarillo"],"Blue es el color azul."],
+    [2,"¿Cuál es el pasado simple de go?",["went","goed","gone","going"],"Go es irregular: su pasado simple es went. Gone es el participio."],
+    [2,"¿Cuál es el plural de child?",["children","childs","childes","childrens"],"Child tiene el plural irregular children."],
+    [2,"¿Qué opción completa She ___ coffee every morning?",["drinks","drink","drinking","drank"],"Con she en presente simple afirmativo se añade -s: drinks."],
+    [3,"¿Qué opción completa If I had studied, I ___ have passed?",["would","will","do","am"],"El tercer condicional combina pasado perfecto con would have y participio."],
+    [3,"¿Qué opción completa I have lived here ___ 2020?",["since","for","during","at"],"Since introduce el punto de inicio de una situación; for se usa para una duración."],
+    [3,"¿Cuál es la voz pasiva de They built the house, conservando el pasado simple?",["The house was built","The house is build","The house has building","The house were built"],"La pasiva en pasado simple usa was o were más participio. House es singular: was built."]
+  ],
+  "Programación": [
+    [1,"¿Qué es una variable en programación?",["Un nombre asociado a un valor o ubicación de almacenamiento","Una pantalla física","Una contraseña obligatoria","Un tipo de impresora"],"Las variables permiten identificar y utilizar datos en un programa."],
+    [1,"¿Qué estructura permite repetir instrucciones?",["Un bucle","Un comentario","Una imagen","Un título"],"Los bucles repiten instrucciones según una condición o un conjunto de elementos."],
+    [1,"¿Para qué sirve normalmente una sentencia if?",["Ejecutar código según una condición","Dibujar todas las imágenes","Guardar siempre un archivo","Conectar necesariamente a Internet"],"If permite elegir una acción cuando se cumple una condición."],
+    [2,"En JavaScript, ¿cuál es el resultado de 2 + 3 * 4?",["14","20","24","9"],"La multiplicación tiene prioridad sobre la suma: 3 × 4 = 12 y 2 + 12 = 14."],
+    [2,"En JavaScript, ¿qué índice corresponde al primer elemento de un array?",["0","1","−1","2"],"Los arrays de JavaScript comienzan su indexación en cero."],
+    [2,"¿Qué hace return dentro de una función de JavaScript?",["Termina esa ejecución y devuelve un valor si se indica","Reinicia siempre la computadora","Crea una base de datos","Repite toda la función automáticamente"],"Return finaliza la ejecución de la función y puede devolver un resultado."],
+    [3,"¿Qué propiedad describe una operación idempotente?",["Repetirla produce el mismo efecto final que ejecutarla una vez","Siempre genera un valor aleatorio","Nunca utiliza datos","Solo funciona sin red"],"La idempotencia permite reintentar operaciones sin multiplicar su efecto."],
+    [3,"¿Para qué sirve una transacción de base de datos?",["Agrupar operaciones para confirmarlas o revertirlas conjuntamente","Publicar automáticamente una aplicación","Reemplazar el lenguaje SQL","Mostrar animaciones"],"Una transacción protege la consistencia al confirmar o deshacer un conjunto de cambios."],
+    [3,"En JavaScript, ¿qué operador compara sin conversión implícita de tipos?",["===","==","=","+="],"La igualdad estricta === compara sin la conversión de tipos que puede aplicar ==."]
+  ],
+  "Cultura general": [
+    [1,"¿Cuántos días tiene una semana?",["7","5","6","8"],"Una semana tiene siete días."],
+    [1,"¿Qué instrumento se utiliza para medir la temperatura?",["Termómetro","Barómetro","Brújula","Cronómetro"],"El termómetro mide temperatura; el barómetro mide presión."],
+    [1,"¿Cuántos lados tiene un triángulo?",["3","4","5","6"],"Un triángulo es un polígono de tres lados."],
+    [2,"¿Quién escribió Don Quijote de la Mancha?",["Miguel de Cervantes","Federico García Lorca","Pablo Neruda","Jorge Luis Borges"],"Miguel de Cervantes escribió Don Quijote de la Mancha."],
+    [2,"¿Qué instrumento indica el norte magnético?",["Brújula","Microscopio","Balanza","Telescopio"],"La aguja de una brújula se orienta con el campo magnético terrestre."],
+    [2,"¿Cuántos minutos hay en tres horas?",["180","120","90","240"],"Cada hora tiene 60 minutos: 3 × 60 = 180."],
+    [3,"¿Qué significa que un año gregoriano sea bisiesto?",["Tiene 366 días","Tiene 365 días siempre","No tiene febrero","Tiene 13 meses"],"Un año bisiesto tiene un día adicional en febrero y suma 366 días."],
+    [3,"¿Qué organización de las Naciones Unidas se dedica a la educación, la ciencia y la cultura?",["UNESCO","OMS","OIT","FAO"],"UNESCO es la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura."],
+    [3,"¿Qué rama de la filosofía estudia los principios del razonamiento válido?",["Lógica","Estética","Ética","Filosofía del arte exclusivamente"],"La lógica estudia formas y principios del razonamiento válido."]
+  ]
+}
+

@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "FocusBattle",
+    "slug": "focusbattle",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/images/focusbattle-icon.png",
+    "scheme": "focusbattle",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "icon": "./assets/images/focusbattle-icon.png"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#101321",
+        "foregroundImage": "./assets/images/focusbattle-foreground.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "server",
+      "favicon": "./assets/images/focusbattle-icon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#101321",
+          "image": "./assets/images/focusbattle-foreground.png",
+          "imageWidth": 180
+        }
+      ],
+      ["expo-audio", {"microphonePermission":false,"recordAudioAndroid":false,"enableBackgroundRecording":false,"enableBackgroundPlayback":false}]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}

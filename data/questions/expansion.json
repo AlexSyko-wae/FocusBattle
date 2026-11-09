@@ -1,0 +1,57 @@
+{
+ "Fútbol":[
+  [1,"¿Qué parte del cuerpo está prohibido usar deliberadamente para marcar un gol, incluso para el guardameta?",["La mano o el brazo","La cabeza","El pie izquierdo","La rodilla"],"Un gol marcado directamente con la mano o el brazo no es válido, incluso si lo marca el guardameta. Un cabezazo sí puede ser válido."],
+  [2,"¿Qué indica normalmente el árbitro al señalar el centro del campo después de un gol válido?",["Que se reanudará con un saque inicial","Que habrá saque de esquina","Que terminó necesariamente el partido","Que se repetirá el penal"],"Después de un gol, el equipo que lo recibió reanuda el juego con un saque inicial desde el centro."],
+  [3,"¿Qué decisión corresponde si un defensor toca por última vez el balón antes de que cruce completamente su línea de meta, sin entrar en la portería?",["Saque de esquina para el adversario","Saque de meta para su equipo","Saque inicial","Balón a tierra obligatorio"],"Si el último toque es de un defensor y el balón cruza la línea de meta fuera de la portería, corresponde saque de esquina. Si lo toca un atacante, corresponde saque de meta."]
+ ],
+ "Videojuegos":[
+  [1,"¿Qué hace normalmente la opción Pausa en un juego de un solo jugador?",["Detener temporalmente la acción","Borrar la partida","Mejorar el equipo automáticamente","Cerrar la cuenta"],"La pausa suspende temporalmente la acción para poder continuar después. En partidas en línea, abrir un menú no siempre detiene el juego."],
+  [2,"¿Qué representa una habilidad de área?",["Un efecto que alcanza una zona","Una habilidad que solo cambia el menú","Una acción que elimina el mapa","Un botón para guardar"],"Una habilidad de área afecta una región del escenario. Puede alcanzar varios objetivos si están dentro de esa zona."],
+  [3,"¿Para qué sirve anticipar visualmente un ataque enemigo antes de que ocurra?",["Permitir que el jugador lo reconozca y responda","Garantizar que el jugador pierda","Ocultar todas las reglas","Impedir cualquier estrategia"],"Una señal previa comunica la intención del enemigo. El jugador puede aprender el patrón y elegir entre defender, atacar o usar un recurso."]
+ ],
+ "Películas":[
+  [1,"¿Qué se muestra normalmente en los créditos de una película?",["Los nombres de quienes participaron en su producción","Solo el precio del boleto","La contraseña del cine","Las respuestas de un examen"],"Los créditos reconocen al reparto y al equipo técnico. También pueden incluir agradecimientos, licencias y otros datos de producción."],
+  [2,"¿Qué describe un primer plano de un personaje?",["Un encuadre cercano que destaca su rostro","Una vista completa de una ciudad","La primera película de un director","Un listado de escenas"],"El primer plano acerca la cámara al rostro para destacar expresiones y emociones. Un plano general muestra más del entorno."],
+  [3,"¿Qué distingue principalmente un corte de montaje de un movimiento de cámara continuo?",["El corte cambia de un plano a otro","El corte exige cambiar de actor","El corte elimina siempre el sonido","El corte solo existe en animación"],"Un corte une dos planos diferentes. Un movimiento continuo cambia el encuadre dentro de una misma toma, sin necesitar ese salto de montaje."]
+ ],
+ "Series":[
+  [1,"¿Qué significa que una serie sea animada?",["Que sus imágenes crean movimiento mediante técnicas de animación","Que no puede tener diálogos","Que todos los personajes son animales","Que cada episodio es un documental"],"La animación crea la ilusión de movimiento a partir de imágenes sucesivas. Puede contar historias de cualquier género y para distintas edades."],
+  [2,"¿Para qué se utiliza una trama secundaria?",["Desarrollar un conflicto adicional al principal","Reemplazar todos los episodios","Mostrar únicamente anuncios","Eliminar el desarrollo de personajes"],"Una trama secundaria acompaña a la principal y puede desarrollar personajes o temas. Puede conectarse con el conflicto central sin sustituirlo."],
+  [3,"¿Qué caracteriza a un narrador poco fiable?",["Su relato puede estar sesgado o ser inexacto","Siempre conoce todos los hechos","Nunca participa en la historia","Solo habla en los créditos"],"Un narrador poco fiable presenta una versión que puede contener errores, engaños o sesgos. El público debe contrastarla con otras pistas de la historia."]
+ ],
+ "Historia":[
+  [1,"¿Qué estudia principalmente la arqueología?",["Las sociedades a través de sus restos materiales","Solo las estrellas","Solo las enfermedades actuales","La programación de computadoras"],"La arqueología analiza objetos, construcciones y otros restos materiales para estudiar sociedades del pasado. No se limita a buscar tesoros."],
+  [2,"¿Qué océano cruzó la expedición de Cristóbal Colón en 1492 para llegar al Caribe?",["El Atlántico","El Índico","El Pacífico","El océano Austral"],"La expedición de 1492 partió de la península ibérica y cruzó el Atlántico hasta el Caribe. No llegó a Asia, aunque Colón creyó haber alcanzado sus proximidades."],
+  [3,"¿Cuál de estos documentos sería una fuente primaria para estudiar una batalla del siglo XIX?",["Una carta escrita durante la batalla por un participante","Una novela actual inspirada en ella","Un videojuego publicado recientemente","Un resumen escolar del siglo XXI"],"Una fuente primaria se produjo en el periodo o procede de un testigo de los hechos. Debe analizarse críticamente: ser contemporánea no garantiza que sea imparcial."]
+ ],
+ "Geografía":[
+  [1,"¿Qué instrumento muestra la orientación hacia el norte magnético?",["La brújula","El termómetro","La balanza","El cronómetro"],"La aguja de una brújula se orienta según el campo magnético terrestre. El norte magnético no coincide exactamente con el norte geográfico."],
+  [2,"En un mapa con escala 1:100 000, ¿qué distancia real representa 1 centímetro?",["1 kilómetro","100 kilómetros","10 metros","1 metro"],"Un centímetro representa 100 000 centímetros reales. Al convertirlos a metros son 1 000 metros, es decir, un kilómetro."],
+  [3,"¿Por qué las estaciones del año son opuestas en los hemisferios norte y sur?",["Por la inclinación del eje terrestre durante la traslación","Porque la Luna cambia de tamaño","Porque el Sol se apaga en un hemisferio","Porque ambos hemisferios giran en sentidos contrarios"],"La inclinación del eje hace que cada hemisferio reciba distinta iluminación a lo largo de la órbita. Cuando uno se inclina hacia el Sol, el otro se inclina en sentido opuesto."]
+ ],
+ "Ciencia":[
+  [1,"¿Qué órgano bombea la sangre por el cuerpo humano?",["El corazón","El estómago","El pulmón izquierdo","El hígado"],"El corazón impulsa la sangre mediante sus contracciones. Los pulmones realizan el intercambio de gases, pero no sustituyen esa función de bombeo."],
+  [2,"¿Qué sucede con el agua líquida al congelarse a presión atmosférica normal?",["Se convierte en sólido","Se convierte en plasma","Desaparece su materia","Se convierte en oxígeno puro"],"La congelación es el cambio de líquido a sólido. El agua sigue siendo agua: cambia su estado físico, no su composición química."],
+  [3,"¿Por qué un experimento compara un grupo tratado con un grupo de control?",["Para evaluar el efecto del tratamiento frente a una referencia","Para garantizar el resultado deseado","Para evitar registrar datos","Para cambiar todas las variables a la vez"],"El control proporciona una referencia para distinguir el efecto del tratamiento de otros factores. Los grupos deben ser comparables y las demás condiciones controlarse."]
+ ],
+ "Matemáticas":[
+  [1,"¿Cuánto es la cuarta parte de 20?",["5","4","10","80"],"Encontrar la cuarta parte equivale a dividir entre cuatro: 20 ÷ 4 = 5. Multiplicar por cuatro daría 80, que es una operación distinta."],
+  [2,"Un producto cuesta 200 pesos y tiene 15 % de descuento. ¿Cuánto pagas?",["170 pesos","185 pesos","150 pesos","230 pesos"],"El 15 % de 200 es 30. Como es un descuento, se resta del precio: 200 − 30 = 170 pesos."],
+  [3,"Si 3x + 5 = 20, ¿cuánto vale x?",["5","15","25","3"],"Primero resta 5 a ambos lados: 3x = 15. Después divide ambos lados entre 3 para obtener x = 5."]
+ ],
+ "Inglés":[
+  [1,"¿Qué significa la palabra inglesa window?",["Ventana","Puerta","Mesa","Silla"],"Window significa ventana. Door corresponde a puerta, table a mesa y chair a silla."],
+  [2,"¿Qué opción completa correctamente She ___ to school every day?",["goes","go","going","gone"],"En presente simple, la tercera persona singular usa goes: She goes. Con I, you, we y they se utiliza go."],
+  [3,"¿Qué oración expresa una situación hipotética presente con el segundo condicional?",["If I had more time, I would read more.","If I have time, I will read.","I read yesterday.","I am reading now."],"El segundo condicional combina if + pasado simple y would + verbo base. Describe una situación hipotética; el pasado no indica aquí necesariamente un hecho pasado."]
+ ],
+ "Programación":[
+  [1,"¿Para qué sirve principalmente una variable en un programa?",["Para almacenar un valor que el programa puede usar","Para aumentar el tamaño de la pantalla","Para cargar físicamente una batería","Para reemplazar el teclado"],"Una variable permite identificar y utilizar un valor. Según el lenguaje y su declaración, ese valor puede cambiar durante la ejecución."],
+  [2,"¿Qué estructura permite repetir instrucciones mientras se cumple una condición?",["Un bucle while","Un comentario","Una cadena vacía","Un nombre de archivo"],"El bucle while comprueba una condición y repite su cuerpo mientras sea verdadera. Si la condición nunca cambia a falsa, puede producirse un bucle infinito."],
+  [3,"¿Qué significa que una operación de red sea idempotente?",["Repetirla con la misma solicitud no añade efectos adicionales","Siempre se ejecuta sin conexión","Nunca puede fallar","Devuelve necesariamente un número"],"Una operación idempotente puede reintentarse sin duplicar su efecto. Por ejemplo, confirmar otra vez la misma recompensa no debería otorgarla dos veces."]
+ ],
+ "Cultura general":[
+  [1,"¿Qué objeto permite consultar la definición de una palabra?",["Un diccionario","Un termómetro","Una brújula","Una calculadora"],"Un diccionario reúne palabras y sus significados. También puede indicar su pronunciación, origen y ejemplos de uso."],
+  [2,"¿Qué sistema de escritura utiliza puntos en relieve para la lectura táctil?",["Braille","Código Morse exclusivamente","Números romanos","Alfabeto cirílico"],"El braille representa símbolos mediante combinaciones de puntos en relieve. Se lee al tacto y puede representar letras, números y otros signos."],
+  [3,"¿Qué diferencia una afirmación verificable de una opinión de gusto personal?",["La afirmación verificable puede contrastarse con evidencia","Toda opinión es siempre falsa","La afirmación verificable debe gustar a todos","Una opinión no puede expresarse por escrito"],"Una afirmación verificable puede comprobarse mediante datos o fuentes. Un gusto personal, como preferir un color, expresa una valoración y no requiere una única respuesta universal."]
+ ]
+}
